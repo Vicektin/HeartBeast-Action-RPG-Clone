@@ -27,6 +27,6 @@ This is a 2D Top-Down Action RPG project created to learn Godot 4, following the
 
 * **Tutorial:** [HeartBeast Action RPG Series](https://www.youtube.com/@uheartbeast)
 * **Assets:** Provided by HeartBeast (Pixel Art & Sounds).
-* **Developer:** [Osman Mert Gökyıldız / OMGOKYILDIZ]
+* **Developer:** [Vicektin / Vicektin]
 
 Created for educational purposes to learn game development.
